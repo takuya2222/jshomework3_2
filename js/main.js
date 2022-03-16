@@ -60,8 +60,3 @@ const createDeleteButton = (todoRow) => {
   });
   return deleteButton
 };
-// deleteButton.addEventListener('click', () => {
-//   deleteButton.innerText = '削除';
-  
-//   console.log(todos);
-// });
